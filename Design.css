@@ -223,17 +223,17 @@ img.snow10{
 
 div.arch{
     position: fixed;
-    font-family: "Sawarabi Mincho";
+    font-family: "Hachi Maru Pop";
     font-size: 8vw;/* 36px*/
     top: 5%;
-    left: 32%;
-    text-shadow:0.2vw 0.2vh 0.3vw #f00;
+    left: 28%;
+    text-shadow:0.2vw 0.2vh 0.3vw rgb(251, 255, 0);
 }
 div.arch2{
     position: fixed;
-    font-family: "Sawarabi Mincho";
+    font-family: "Hachi Maru Pop";
     font-size: 4vw;
     top: 30%;
     left: 24%;
-    text-shadow:0.2vw 0.2vh 0.3vw #f00;
+    text-shadow:0.2vw 0.2vh 0.3vw rgb(251, 255, 0);
 }
