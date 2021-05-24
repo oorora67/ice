@@ -52,10 +52,10 @@ img.tako{
 @keyframes tako_anime {
   0% {
     transform: rotate(-40deg);
-   }
-   100% {  
-     transform: rotate(40deg);
-   }
+  }
+  100% {  
+    transform: rotate(40deg);
+  }
 }
 
 img.kumade1{
@@ -236,3 +236,4 @@ div.arch2{
     top: 30%;
     left: 20.5%;
     text-shadow:0.2vw 0.2vh 0.3vw #f00;
+}
