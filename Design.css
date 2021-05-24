@@ -4,7 +4,7 @@ div.page{
     left: -0.5%;
     width: 100.5vw;
     height: 100.5vh;
-    background: #00d9ff
+    background: #a2ffff
 }
 img.kadomatu1{
     position: fixed;
@@ -36,7 +36,7 @@ img.kadomatu2{
 }
 img.huzi{
     position: fixed;
-    opacity: 70%;
+    opacity: 50%;
     bottom: 5%;
     left: 13%;
     width: 70%;
