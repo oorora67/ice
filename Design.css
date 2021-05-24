@@ -37,9 +37,9 @@ img.kadomatu2{
 img.yukiyama{
     position: fixed;
     opacity: 80%;
-    bottom: -10%;
-    left: 5%;
-    width: 20%;
+    bottom: 5%;
+    left: 18%;
+    width: 70%;
 }
 img.tako{
   position: fixed;
@@ -226,7 +226,7 @@ div.arch{
     font-family: "Sawarabi Mincho";
     font-size: 8vw;/* 36px*/
     top: 5%;
-    left: 25%;
+    left: 32%;
     text-shadow:0.2vw 0.2vh 0.3vw #f00;
 }
 div.arch2{
@@ -234,6 +234,6 @@ div.arch2{
     font-family: "Sawarabi Mincho";
     font-size: 4vw;
     top: 30%;
-    left: 25%;
+    left: 24%;
     text-shadow:0.2vw 0.2vh 0.3vw #f00;
 }
